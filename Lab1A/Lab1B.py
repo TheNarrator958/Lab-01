@@ -3,7 +3,7 @@
 # Term : Fall 2026
 # Instructor : Jui Mhatre
 # Name : Dominic Lyu
-# Lab : 1A
+# Lab : 1B
 
 message = input ("Enter a line of text: ");
 print ("You wrote '" + message + "'");
