@@ -3,7 +3,7 @@
 # Term : Fall 2026
 # Instructor : Jui Mhatre
 # Name : Dominic Lyu
-# Lab : 1A
+# Lab : 1C
 
 miles = input ("Enter the number of miles: ")
 gallons = input ("Enter the gallons of fuel used: ")
